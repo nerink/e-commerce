@@ -1,0 +1,26 @@
+{
+  "name": "fantastic-umbrella",
+  "version": "1.0.0",
+  "description": "e-commerce project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerink/fantastic-umbrella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerink/fantastic-umbrella/issues"
+  },
+  "homepage": "https://github.com/nerink/fantastic-umbrella#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
