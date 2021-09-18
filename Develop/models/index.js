@@ -4,7 +4,7 @@ const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
 
-// Products belongsTo Category
+// Products belongsTo Category- category can have multipl eproducts, but a product can only belong to one category 
 
 // Categories have many Products
 
