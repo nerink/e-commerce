@@ -22,7 +22,8 @@ The final animation shows the POST, PUT, and DELETE routes for categories being 
 
 ![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
 
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
+Walktorough video:
+https://drive.google.com/file/d/1fMofpx_PDjSBqKk6kPdb2Ul1SajAPXeV/view 
 
 
 ## Build With 
